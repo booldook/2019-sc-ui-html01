@@ -1,0 +1,8 @@
+/* display:inline(글씨)/inline-block(글씨인데 크기를 가짐)/block(영역)/none(안보임) */
+
+.top {border-bottom:1px solid #ccc;}
+.top > div {padding:16px;}
+.logo {font-size: 24px; font-weight: bold; color:#09f; float:left; width:20%;}
+.nav {float:right; width:70%;}
+.nav > div {padding:8px; margin:8px; background-color: #999; color:#fff; float:left;}
+.cont {padding:16px; font-size: 18px; color:#f90;}
