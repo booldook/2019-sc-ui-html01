@@ -1,4 +1,4 @@
-div {padding: 16px; border:1px solid #999;}
+.top > div {padding: 16px; border:1px solid #999;}
 .logo {background-color: burlywood; font-weight: bold; width: 20%; float: left;}
 .nav {background-color: darkcyan; width: 60%; float: right;}
 .cont {background-color: blueviolet;}
