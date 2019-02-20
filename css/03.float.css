@@ -1,3 +1,6 @@
-div {border: 1px solid #999; padding: 16px;}
-.logo {background-color: burlywood; font-weight: bold;}
-.nav {background-color: darkcyan;}
+div {padding: 16px; border:1px solid #999;}
+.logo {background-color: burlywood; font-weight: bold; width: 20%; float: left;}
+.nav {background-color: darkcyan; width: 60%; float: right;}
+.cont {background-color: blueviolet;}
+
+/* display:inline(글씨)/inline-block(글씨인데 크기를 가짐)/block(영역)/none(안보임) */
