@@ -1,0 +1,19 @@
+{
+	"editor.fontSize": 36,
+	"workbench.colorTheme": "Visual Studio Light",
+	"editor.lineHeight": 38,
+	"editor.letterSpacing": -3,
+	"editor.fontFamily": "D2coding",
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	"editor.renderWhitespace": "boundary",
+	"editor.wordWrap": "on",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"terminal.integrated.fontFamily": "D2coding",
+	"terminal.integrated.fontSize": 32,
+	"terminal.integrated.fontWeight": "bold",
+	"git.enableSmartCommit": true,
+	"git.autofetch": true,
+	"editor.dragAndDrop": false,
+	"html.autoClosingTags": false
+}
