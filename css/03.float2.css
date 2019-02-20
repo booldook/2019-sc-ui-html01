@@ -1,0 +1,4 @@
+.tops {border:10px solid #00f;}
+.tops > .left {border:10px solid #f00; float: left;}
+.tops > .right {border:10px solid #f00; float: right;}
+
