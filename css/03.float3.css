@@ -1,0 +1,6 @@
+body {background-color: bisque;}
+
+.h2-red {color:red; text-align: left; float:left; border:10px solid #f00;}
+.h4-green { text-align: right; float:right; border:10px solid #00f;}
+.h2-blue {color:blue; text-align: center; border: 1px dotted red; margin-top: 100px;}
+.clear {clear:both;}
