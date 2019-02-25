@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,9 +9,32 @@
 	<link rel="stylesheet" href="../css/base.css">
 	<link rel="stylesheet" href="../css/06.form.css">
 </head>
+
 <body>
-	<form name="join_form" action="" method="">
-		
+	<form name="join_form" action="form.html" method="">
+		<input type="text">
+		<input type="password">
+		<input type="button" value="확인">
+		<input type="reset" value="초기화">
+		<input type="submit" value="제출">
+		<label><input type="radio" name="gender" value="M">남자</label>
+		<label><input type="radio" name="gender" value="F">여자</label>
+		<label><input type="radio" name="gender2" value="A">외계인</label>
+		<label><input type="radio" name="gender2" value="E">지구인</label>
+		<label><input type="checkbox" name="fav" value="music">음악감상</label>
+		<label><input type="checkbox" name="fav" value="movie">영화감상</label>
+		<label><input type="checkbox" name="fav" value="swimming">수영</label>
+		<label><input type="checkbox" name="fav" value="food fighter">먹기</label>
+		<select name="tel1" id="tel1">
+			<option value="010">010</option>
+			<option value="011">011</option>
+			<option value="016">016</option>
+			<option value="017">017</option>
+			<option value="018">018</option>
+			<option value="019">019</option>
+		</select>
+		<textarea name="content" id="content" cols="30" rows="10"></textarea>
 	</form>
 </body>
+
 </html>
